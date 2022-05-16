@@ -1,0 +1,13 @@
+{
+  "source": ["tokens.json"],
+  "platforms": {
+    "android": {
+      "transformGroup": "android",
+      "buildPath": "build/android/",
+      "files": [{
+        "destination": "colors.xml",
+        "format": "android/resources"
+      }]
+    }
+  }
+}
