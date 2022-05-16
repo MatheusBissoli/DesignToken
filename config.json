@@ -3,7 +3,7 @@
   "platforms": {
     "android": {
       "transformGroup": "android",
-      "buildPath": "build/android/",
+      "buildPath": "app/src/main/res/values/",
       "files": [{
         "destination": "colors.xml",
         "format": "android/resources"
